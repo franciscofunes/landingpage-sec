@@ -1,15 +1,15 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Sobre nosotros",
+  "text": "SEC Argentina es una empresa Argentina fundada en el año 2015 especializada en brindar la más amplia y completa variedad de servicios en Higiene y Seguridad en el trabajo con responsabilidad, dinamismo, proactividad y calidad. ",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "¿Por qué trabajar con nosotros?",
+      "content": "Garantizamos a las empresas el desarrollo de las actividades laborales en un ambiente favorable para la salud y seguridad de los trabajadores, obteniendo mejores estándares de calidad en cumplimiento de las normativas vigentes.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "¿Cómo logramos esto?",
+      "content": "Nuestra empresa está en condiciones de brindar el asesoramiento permanente a través de los cuales se llevan a cabo las actividades encaminadas a organizar la prevención de riesgos en las Empresas",
       "icon": "notes.svg"
     }
   ]
